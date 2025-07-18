@@ -1,2 +1,2 @@
 # For Voron Printers
-Parts, moded parts and accessories for Voron Printers
+Parts, modded parts and accessories for Voron Printers
