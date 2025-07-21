@@ -1,7 +1,7 @@
 # Nozzle Camera for Toolchanger XY Nozzle Calibration
 
 
-Camera setup for XY nozzle calibration in toolchanger setups. Can be use for that with Axiscope or any other softare. Or it can be used as a simple webcam on your computer.
+Camera setup for XY nozzle calibration in toolchanger setups. Can be use for that with Axiscope ( https://github.com/nic335/Axiscope ) or any other softare. Or it can be used as a simple webcam on your computer.
 
 
 BOM:
