@@ -7,5 +7,6 @@ Witch can be used with one of these heatblocks:
 - https://de.aliexpress.com/item/1005009094131015.html - Trianglelab CHCB-V
 - or just a simple volcano heatblock.
 
-The Trianglelab CHCB-V with his original heatsink and heatbreak is not compatible with "Main Body for Volcano Heatblock - 21mm heatsink", becouse the owerall lenght is shorter and the heatsink is bigger in diameter. For this the part its called "Main Body for Trianglelab CHCB-V".
+The Trianglelab CHCB-V with his original heatsink and heatbreak is not compatible with "Main Body for Volcano Heatblock - 21mm heatsink", because the overall length is shorter and the heatsink is bigger in diameter. For this the part its called "Main Body for Trianglelab CHCB-V".
+
 
