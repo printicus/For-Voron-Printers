@@ -1,6 +1,6 @@
 # Miniburner XL toolhead.
 
-The partcooling fan parts and front cover are the same for all toolheads in this folder. The difference for each hotend supported is the main body.
+The partcooling fan parts and front cover are the same for all hotends in this folder. The difference for each hotend supported is the main body.
 
 # BOM:
 
@@ -49,6 +49,7 @@ All stl's are positioned in the correct position for printing.
 ## An atempt to an Assembly Tutorial
 
 [![Assembly](https://img.youtube.com/vi/ew-SoRTqHR0/0.jpg)](https://www.youtube.com/watch?v=ew-SoRTqHR0)   [![Assembly](https://img.youtube.com/vi/SxsvMOHyB7k/0.jpg)](https://www.youtube.com/watch?v=SxsvMOHyB7k)
+
 
 
 
