@@ -46,8 +46,9 @@ Supports: maybe, depends on your slicer settings. The main body parts and the pa
 
 All stl's are positioned in the correct position for printing.
 
-## An atempt to a Assembly Tutorial
+## An atempt to an Assembly Tutorial
 
 [![Assembly](https://img.youtube.com/vi/ew-SoRTqHR0/0.jpg)](https://www.youtube.com/watch?v=ew-SoRTqHR0)   [![Assembly](https://img.youtube.com/vi/SxsvMOHyB7k/0.jpg)](https://www.youtube.com/watch?v=SxsvMOHyB7k)
+
 
 
