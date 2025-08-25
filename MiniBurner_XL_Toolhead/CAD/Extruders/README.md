@@ -1,3 +1,27 @@
+## Bom for Extruder Suports:
+- Filament: ABS or ASA
+- Heat Inserts(voron specs) x2
+- M3x20 x2 Cap Screws for securing the extruder support on the toolhead
+  - For Sherpa Mini:
+    - M3x18  x2 Cap Screws - for securing the extruder on the extruder support
+    - M3x25  x2 Cap Screws - for securing the extruder on the extruder support with the filament cutter addon
+  - For Orbiter v2
+    - M3x14  x2 Cap Screws - for securing the extruder on the extruder support
+    - M3x20  x2 Cap Screws - for securing the extruder on the extruder support with the filament cutter addon
+
+## Toolboards Supports
+
+You can use the toolboarts supports that I providet here or you can use whatever toolboards supports you can find online that apply to the Sherpa Mini and Orbiterv2
+## BOM:
+- Filament: ABS or ASA
+- Heat Insert(voron specs) x2
+- M3x8  x2 for securing the toolboard support on the extruder
+- M3x10  x2 for securing the toolboard
+- Spacer  x2 between the extruder and extruder support. the lenght for this spacers depends on what size(length) motors you have. I prefer metalic ones.
+
+## Links:
+- Spacers - https://de.aliexpress.com/item/1005006251587333.html - or - https://de.aliexpress.com/item/1005003493226449.html
+
 ## Filament Cutter Addon
 
 The Filament Cutter Addon is ment for use in regular non toolchanger settups, with or without an MMU of some sort. I do not recomend using with a toolchanger settup, the pin interlocking system between the shuttle and backplate is not ment for such shocks.
@@ -69,5 +93,6 @@ gcode:
     G1 Y{printer.configfile.settings.stepper_y.position_max}                  # cut
     G1 Y{printer.configfile.settings.stepper_y.position_max-10} F15000        # move away
 ```
+
 
 The FILAMENT_CUT macro does only the cut move. The CUT_FILAMENT_AND_UNLOAD macro will heat up the nozzle, retract a small amount of filament, activate the FILAMENT_CUT macro and move the toolhead in the front of the printer, then unload the rest of the filament. Feel free to modify those macro at will.
