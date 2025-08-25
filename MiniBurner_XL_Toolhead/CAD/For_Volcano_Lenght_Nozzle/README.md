@@ -1,4 +1,4 @@
-Miniburner XL toolhead.
+# Miniburner XL toolhead.
 
 The partcooling fan parts and front cover are the same for all toolheads in this folder. The difference for each hotend supported is the main body.
 
@@ -31,4 +31,5 @@ Printing:
 
 4 walls, 5 tops and bottoms, 40-50% infill.
 Supports: maybe, depends on your slicer settings. The main body parts and the part cooling fan covers could need some suports.
+
 All stl's are positioned in the correct position for printing.
