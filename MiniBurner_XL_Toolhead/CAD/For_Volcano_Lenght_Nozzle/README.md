@@ -2,6 +2,8 @@
 
 The partcooling fan parts and front cover are the same for all toolheads in this folder. The difference for each hotend supported is the main body.
 
+[Custom Hotend](../For_Volcano_Lenght_Nozzle/Custom_Hotend.md)
+
 ## BOM:
 - Filament: ABS or ASA
 - Color: only pink allowed.... :D
@@ -30,4 +32,5 @@ The partcooling fan parts and front cover are the same for all toolheads in this
 - Supports: maybe, depends on your slicer settings. The main body parts and the part cooling fan covers could need some suports.
 
 # All stl's are positioned in the correct position for printing.
+
 
