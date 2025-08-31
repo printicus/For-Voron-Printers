@@ -13,7 +13,8 @@ Camera setup for XY nozzle calibration in toolchanger setups. Can be use for tha
 - 6x3x2 N52 Magnets x8
 - M2x6 Countersunk Self Tapping Screw x8
 
-Alternative to magnets you can simply use double sidet tape.
+Alternative to magnets you can simply use double sided tape.
+
 
 
 
