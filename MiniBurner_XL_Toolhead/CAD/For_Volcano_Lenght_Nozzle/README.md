@@ -11,18 +11,18 @@ The partcooling fan parts and front cover are the same for all toolheads in this
 ## BOM:
 - Filament: ABS or ASA
 - Color: only pink allowed.... :D
-- M2.5x8 x4pcs  screw
-- M3x14  x8pcs  screw
-- M3x20  x2pcs  screw
+- M2.5x8 x4pcs  screws for hotend
+- M3x14  x8pcs  screws, 4pcs for hotend fan, 4pcs for the PCF in the back
+- M3x20  x2pcs  screw for the PCF in the front
 - LED's
 - 2510 axial fan x1
-- 5015 radial fan x2 - I made rehausing parts only for GDSTIME and Sunon fans.
+- 5015 radial fan x2 - I designed rehausing printed parts only for GDSTIME and Sunon fans.
 
 ## If mounted on the voron x-carriage:
 - M3x10  x2pcs screw
-- M3x8   x2pcs countersunk screw
+- M3x10  x2pcs countersunk screw
 
-## If used in an toolchanger settup:
+## If used in an toolchanger setup:
 - M3x8   x4pcs countersunk screw for mounting on the backplate
 - 6x3x2  x4pcs magnets
 - M2x8   x4pcs countersunk selftapping screws for the magnets
@@ -31,13 +31,15 @@ The partcooling fan parts and front cover are the same for all toolheads in this
 - Magnets:  https://www.buyneomagnets.com/p/6mm-dia-x-3mm-thick-with-countersunk-hole-2mm-n35-strong-countersunk-neodymium-disc-magnets-countersunk-ring-rare-earth-magnet
 - Screws for magnets: https://vi.aliexpress.com/item/1005006676743568.html
 - Leds:  https://de.aliexpress.com/item/1005005515068181.html
+
   or - https://de.aliexpress.com/item/1005006223955083.html - these are the RGB variant. Need to be connected to an RGB port on the toolboard.
 
 ##Printing:
 - 4 walls, 5 tops and bottoms, 40-50% infill.
 - Supports: maybe, depends on your slicer settings. The main body parts and the part cooling fan covers could need some suports.
 
-# All stl's are positioned in the correct position for printing.
+## All stl's are positioned in the correct position for printing.
+
 
 
 
