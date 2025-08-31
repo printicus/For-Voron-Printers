@@ -2,6 +2,8 @@
 
 The Miniburner XL Toolhead is ment for mounting on a Voron2.4 or Voron Trident printer. For that it can be mounted on the original voron carriage. This comes with some dimensions constraints on X an Y, so it will reach the entire build plate. [For that the 5015 partcooling fans need to be "rehaused"](https://youtu.be/SxsvMOHyB7k). That means that they will need to be disassembled and modified by cutting. The only parts used will be the blades and the backplate on what the fan is actual mounted, cut to a proper diameter for mounting on the "fan_support" printed part.
 
+<img src="../../Images/PartCooling_Fan_01.jpg?raw=true" width="300" />  <img src="../../Images/PartCooling_Fan_02.jpg?raw=true" width="300" />
+
 The partcooling fan parts and front cover are the same for all toolheads in this folder. The difference for each hotend supported is the main body.
 
 [Custom Hotend](../For_Volcano_Lenght_Nozzle/Custom_Hotend.md)
@@ -36,6 +38,7 @@ The partcooling fan parts and front cover are the same for all toolheads in this
 - Supports: maybe, depends on your slicer settings. The main body parts and the part cooling fan covers could need some suports.
 
 # All stl's are positioned in the correct position for printing.
+
 
 
 
