@@ -49,7 +49,7 @@ The Filament Cutter Addon is ment for use in regular non toolchanger setups, wit
 
 # Assembly:
 
-Guide yourself from the pictures. The M3x35 screws must be with half lenght thread. If you have with full lenght thread you will need to use the nylon washers I linked above, or the spring will get caught on the screw threads and will get pulled in the hole of the blade holder and jam the hole thing. You will need to adjust how much the long screws are screwed in the printed part so that the blade will sit close to the filament. The 3mm pin is used so that when cutting the blade should not burry herself into the printed part due the blade being angled. The small piece of metal tubing is necesary so that the blade should have something to cut against. You can use a PTFE tubing for that, but I think the PTFE tubing will crack over time. The tubing should be flush on the blade side and go on the extruder exit port as long as needet. The PTFE tubing from the hotend should end flush on top of the extruder adapter printed part, and should be chamfered to aid the filament entry.
+Guide yourself from the pictures. The M3x35 screws must be with half lenght thread. If you have with full lenght thread you will need to use the nylon washers I linked above, or the spring will get caught on the screw threads and will get pulled in the hole of the blade holder and jam the hole thing. You will need to adjust how much the long screws are screwed in the printed part so that the blade will sit close to the filament. The 3mm pin is used keep the blade straight when cutting. The small piece of metal tubing is necesary so that the blade should have something to cut against. You can use a PTFE tubing for that, but I think the PTFE tubing will crack over time. The tubing should be flush on the blade side and go on the extruder exit port as long as needet. The PTFE tubing from the hotend should end flush on top of the extruder adapter printed part, and should be chamfered to aid the filament entry.
 
 # The Pusher.
 
@@ -96,6 +96,7 @@ gcode:
 
 
 The FILAMENT_CUT macro does only the cut move. The CUT_FILAMENT_AND_UNLOAD macro will heat up the nozzle, retract a small amount of filament, activate the FILAMENT_CUT macro and move the toolhead in the front of the printer, then unload the rest of the filament. Feel free to modify those macro at will.
+
 
 
 
