@@ -32,7 +32,7 @@ The Filament Cutter Addon is ment for use in regular non toolchanger setups, wit
 - M3x6 x1
 - M3 Nut x1
 - M3x35 x2pcs
-- 2 springs from a balpoint pen
+- 2 springs from a ballpoint pen
 - Blade x1
 - 4mm OD x 2mm ID  metalic tubing
 - 3mmx10mm pin
@@ -96,5 +96,6 @@ gcode:
 
 
 The FILAMENT_CUT macro does only the cut move. The CUT_FILAMENT_AND_UNLOAD macro will heat up the nozzle, retract a small amount of filament, activate the FILAMENT_CUT macro and move the toolhead in the front of the printer, then unload the rest of the filament. Feel free to modify those macro at will.
+
 
 
