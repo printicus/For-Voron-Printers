@@ -24,7 +24,7 @@ You can use the toolboarts supports that I providet here or you can use whatever
 
 ## Filament Cutter Addon
 
-The Filament Cutter Addon is ment for use in regular non toolchanger setups, with or without an MMU of some sort. I do not recomend using with a toolchanger settup, the pin interlocking system between the shuttle and backplate is not ment for such shocks.
+The Filament Cutter Addon is ment for use in regular non toolchanger setups, with or without an MMU of some sort. I do not recomend using with a toolchanger setup, the pin interlocking system between the shuttle and backplate is not ment for such shocks.
 
 # BOM for Filament Cutter Adaptor:
 
@@ -96,4 +96,5 @@ gcode:
 
 
 The FILAMENT_CUT macro does only the cut move. The CUT_FILAMENT_AND_UNLOAD macro will heat up the nozzle, retract a small amount of filament, activate the FILAMENT_CUT macro and move the toolhead in the front of the printer, then unload the rest of the filament. Feel free to modify those macro at will.
+
 
