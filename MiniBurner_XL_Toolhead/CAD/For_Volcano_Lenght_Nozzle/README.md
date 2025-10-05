@@ -6,7 +6,7 @@ The GDSTIME fans backplate need to be cut at max 39mm diameter, Sunon at max 37m
 
 Example:
 
-<img src="../../Images/PartCooling_Fan_01.jpg?raw=true" width="300" />  <img src="../../Images/PartCooling_Fan_02.jpg?raw=true" width="300" />
+<img src="../../Images/PartCooling_Fan_01.jpg" width="300" />  <img src="../../Images/PartCooling_Fan_02.jpg" width="300" />
 
 The partcooling fan parts and front cover are the same for all toolheads in this folder. The difference for each hotend supported is the main body.
 
@@ -44,9 +44,10 @@ The partcooling fan parts and front cover are the same for all toolheads in this
 
 Example paint-on supports:
 
-<img src="../../Images/Paint-On_Supports_01.jpg?raw=true" width="300" />  <img src="../../Images/Paint-On_Supports_02.jpg?raw=true" width="300" />  <img src="../../Images/Paint-On_Supports_03.jpg?raw=true" width="300" />
+<img src="../../Images/Paint-On_Supports_01.jpg" width="300" />  <img src="../../Images/Paint-On_Supports_02.jpg" width="300" />  <img src="../../Images/Paint-On_Supports_03.jpg" width="300" />
 
 ## All stl's are positioned in the correct position for printing.
+
 
 
 
