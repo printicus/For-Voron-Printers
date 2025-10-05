@@ -3,7 +3,7 @@
 
 Camera setup for XY nozzle calibration in toolchanger setups. Can be use for that with [Axiscope]( https://github.com/nic335/Axiscope ) or any other softare. Or it can be used as a simple webcam on your computer.
 
-<img src="Images/Image01.jpg?raw=true" width="350" />  <img src="Images/Image06.jpg?raw=true" width="500" />
+<img src="Images/Image01.jpg" width="350" />  <img src="Images/Image06.jpg" width="500" />
 
 ## BOM:
 - Filament whatever type you want
@@ -14,6 +14,7 @@ Camera setup for XY nozzle calibration in toolchanger setups. Can be use for tha
 - M2x6 Countersunk Self Tapping Screw x8
 
 Alternative to magnets you can simply use double sided tape.
+
 
 
 
