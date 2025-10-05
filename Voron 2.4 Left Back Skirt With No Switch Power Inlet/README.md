@@ -2,4 +2,5 @@
 
 If you have a front power switch on your Voron 2.4, maybe you will need this.
 
-![](Images/Image01.jpg?raw=true)
+![](Images/Image01.jpg)
+
