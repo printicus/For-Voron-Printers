@@ -1,6 +1,6 @@
 # Backplate fur using Miniburner XL Toolhead with StealthChanger toolchanger.
 
-<img src="../../Images/StealthChanger_Shuttle_03.jpg?raw=true" width="500" />
+<img src="../../Images/StealthChanger_Shuttle_03.jpg" width="500" />
 
 Not tested on actual printer, but I printed one Stealtchanger shuttle and it fits nice.
 
